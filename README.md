@@ -11,5 +11,3 @@ I am a self taught C++ software engineer and I am currently practicing writting 
 - I also have a repo I used to track the [Advent of Code](https://adventofcode.com/) 2022
 
  - Another fun project on here is my recreation of a mini game [Knuckle bones](https://github.com/phortheman/KnuckleBonesPython) from the game The Cult of the Lamb. Its played in ther terminal and is written in Python. My favorite feature from it is the terminal refresh funtion I implemented that will clear the terminal before displaying what the boards look like. It make the whole playing in the terminal experience much better.
-
-- There is also a catch all repo that has some very small Python projects I did as exercises to practice Python. The more notiable one is the palindrome script but aside from that they are mostly just super small and quick projects.
