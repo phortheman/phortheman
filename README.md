@@ -1,7 +1,7 @@
 # Welcome to phortheman's GitHub page
-I am a self-taught C++ Software Engineer who is interested in learning lower-level languages like Rust and Golang, but I also enjoy creating automation tools using high-level languages like Python.
+I am a self-taught C++ Software Engineer who is interested in learning lower-level languages like Rust and Go, but I also enjoy creating automation tools using high-level languages like Python.
 
-Currently I am working on a Discord bot to help me and my friends manage the next Steam sale written in Python and I am doing the [Advent of Code](https://adventofcode.com/) for 2021 in C#
+Currently I am working on a Discord bot to help me and my friends manage the next Steam sale written in Python and I am doing the [Advent of Code](https://adventofcode.com/) for 2023 in Go
 
 ## About me
 My internet alias is phortheman ("four the man"). It's a cheesy name that my mother helped me come up with when I created my first email address ages ago. My real name is Marcus. I graduated with a Bachelor of Science degree in Information Technology with a minor in Business.
