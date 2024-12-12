@@ -10,7 +10,7 @@ My internet alias is phortheman ("four the man"). It's a cheesy name that my mot
 
 - My [NeoVim config](https://github.com/phortheman/nvim). Ever evolving, loving it.
 
-- My solutions for the [Advent of Code]([https://github.com/phortheman/AdventOfCode]).
+- My solutions for the [Advent of Code](https://github.com/phortheman/AdventOfCode).
 
 - My Attempt to the [1brc](https://github.com/phortheman/1brc_go) which is a very fun and functional challenge where you need to aggregate 1 billion rows of data.
 
